@@ -1,0 +1,5 @@
+interface:
+  display_name: "官网实证型 AI 解释视频"
+  short_description: "把官方资料制作成普通人看得懂、愿意看完的高质量横屏解释视频"
+  brand_color: "#C8A96B"
+  default_prompt: "Use $official-ai-explainer-shotcraft to turn official product materials into a clear, high-quality 16:9 explainer video for general audiences."

@@ -1,0 +1,194 @@
+{
+  "slug": "example-ai-product",
+  "fileStem": "example-ai-product-final",
+  "outputDirectory": "artifacts/example-ai-product",
+  "title": "最近刷屏的 ExampleAI 到底是个啥",
+  "coverText": "ExampleAI\n解决什么",
+  "subtitle": "AI 新品大白话",
+  "style": "从目标产品的官方视觉系统提取字体、颜色和间距；保持信息清楚、克制，不沿用其他产品的品牌皮肤。",
+  "hook": {
+    "statement": "ExampleAI 不负责炫技，它负责解决一个明确问题",
+    "beats": [
+      "它是什么",
+      "普通人怎么用",
+      "它做不到什么"
+    ]
+  },
+  "callToAction": "你最想让它先解决哪个问题？",
+  "scenes": [
+    {
+      "heading": "先用一句话说清楚",
+      "body": "不要先讲参数，先告诉普通人它替谁解决什么问题。",
+      "bullets": [
+        "明确对象",
+        "明确动作",
+        "明确结果"
+      ],
+      "narration": "最近刷屏的 ExampleAI，先别急着把它当成另一个聊天机器人。它真正做的，是替你解决一个很明确的问题。",
+      "source": {
+        "path": "source/scene-1-official-4k.png",
+        "label": "ExampleAI 官方介绍 · 4K",
+        "sourceUrl": "https://example.com/docs",
+        "capturedAt": "2026-01-01T00:00:00.000Z"
+      },
+      "delivery": {
+        "emotion": "confident",
+        "emphasis": [
+          "很明确的问题"
+        ]
+      },
+      "shotCopy": {
+        "sourceBadge": "官方介绍 · 4K"
+      }
+    },
+    {
+      "heading": "它和原来的方式差在哪",
+      "body": "用同一个任务直接比较，不堆模型参数。",
+      "bullets": [
+        "原来的方式 → 先做很多准备",
+        "ExampleAI → 直接交付结果"
+      ],
+      "narration": "差别不在于它更会说，而在于同一个任务，它能不能更快交出普通人可以直接使用的结果。",
+      "source": {
+        "path": "source/scene-2-official-highest.mp4",
+        "label": "ExampleAI 官方对比演示 · 最高画质",
+        "sourceUrl": "https://example.com/blog",
+        "capturedAt": "2026-01-01T00:00:00.000Z"
+      },
+      "delivery": {
+        "emotion": "curious",
+        "emphasis": [
+          "直接使用的结果"
+        ]
+      },
+      "shotCopy": {
+        "sourceBadge": "官方对比演示 · 最高画质",
+        "comparisonCodes": [
+          "BEFORE",
+          "AFTER"
+        ],
+        "comparisonLabels": [
+          "原来的方式",
+          "ExampleAI"
+        ]
+      }
+    },
+    {
+      "heading": "普通人最容易遇到的三个场景",
+      "body": "每张卡只讲一个输入和一个结果。",
+      "bullets": [
+        "收到信息 → 自动分清重点",
+        "遇到问题 → 给出下一步",
+        "重复任务 → 直接完成"
+      ],
+      "narration": "普通人最容易在三个地方遇见它。信息太多时帮你分重点，遇到问题时给出下一步，重复任务则直接替你完成。",
+      "delivery": {
+        "emotion": "confident",
+        "emphasis": [
+          "三个地方"
+        ]
+      },
+      "shotCopy": {
+        "cardLabels": [
+          "信息整理",
+          "问题处理",
+          "重复任务"
+        ],
+        "cardFooter": "一次只解决一个明确问题"
+      }
+    },
+    {
+      "heading": "官网的核心能力翻译成人话",
+      "body": "专业名词可以保留，但画面必须同时给出大白话解释。",
+      "bullets": [
+        "能力一：它帮你选什么",
+        "能力二：它帮你判断什么",
+        "能力三：结果能不能继续执行"
+      ],
+      "narration": "官网列了几项核心能力。翻译成人话，就是它能帮你选、帮你判断，并把结果直接交给后面的软件继续执行。",
+      "source": {
+        "path": "source/scene-4-official-4k.png",
+        "label": "ExampleAI 官方快速开始 · 4K",
+        "sourceUrl": "https://example.com/quickstart",
+        "capturedAt": "2026-01-01T00:00:00.000Z"
+      },
+      "delivery": {
+        "emotion": "calm",
+        "emphasis": [
+          "翻译成人话"
+        ]
+      },
+      "shotCopy": {
+        "sourceBadge": "官方快速开始 · 4K",
+        "resultSummary": "答案已经变成软件能直接使用的结果",
+        "resultStatus": "结构化结果已就绪"
+      }
+    },
+    {
+      "heading": "它不是万能 AI",
+      "body": "主动讲清限制，反而更容易建立信任。",
+      "bullets": [
+        "问题需要足够明确",
+        "使用范围要提前限定",
+        "不适合的任务不要硬用"
+      ],
+      "narration": "但它不是万能 AI。问题要足够明确，使用范围要提前限定，不适合的任务也不要硬塞给它。",
+      "source": {
+        "path": "source/scene-5-official-4k.png",
+        "label": "ExampleAI 官方能力说明 · 4K",
+        "sourceUrl": "https://example.com/limitations",
+        "capturedAt": "2026-01-01T00:00:00.000Z"
+      },
+      "delivery": {
+        "emotion": "serious",
+        "emphasis": [
+          "不是万能 AI"
+        ]
+      },
+      "shotCopy": {
+        "sourceBadge": "官方能力说明",
+        "flipLabels": [
+          "问题",
+          "范围",
+          "边界"
+        ]
+      }
+    },
+    {
+      "heading": "它会藏在日常软件背后",
+      "body": "用户看到的是功能，真正的 AI 能力运行在软件内部。",
+      "bullets": [
+        "信息筛选",
+        "任务分级",
+        "自动操作",
+        "结果检查"
+      ],
+      "narration": "所以普通人不一定会单独打开 ExampleAI。你更可能先在日常软件背后遇见它。它不是下一个聊天窗口，而是一块藏进软件里的能力引擎。你最想让它先解决哪个问题？",
+      "source": {
+        "path": "source/scene-6-official-highest.mp4",
+        "label": "ExampleAI 官方产品演示 · 最高画质",
+        "sourceUrl": "https://example.com/demo",
+        "capturedAt": "2026-01-01T00:00:00.000Z"
+      },
+      "delivery": {
+        "emotion": "warm",
+        "emphasis": [
+          "藏进软件里的能力引擎"
+        ]
+      },
+      "pronunciation": [
+        {
+          "key": "藏",
+          "value": "cang2",
+          "caseSensitive": false
+        }
+      ],
+      "shotCopy": {
+        "sourceBadge": "官方产品演示 · 最高画质",
+        "columnAnchor": "能力",
+        "columnBridge": "自动执行",
+        "columnFinal": "藏在软件背后"
+      }
+    }
+  ]
+}
